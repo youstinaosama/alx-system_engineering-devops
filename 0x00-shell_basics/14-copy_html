@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u --verbose ./0x00-shell_basics/*.html
+cp  -n .html ..
