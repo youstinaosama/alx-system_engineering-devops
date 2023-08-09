@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir alx-system_engineering-devops/0x03-shell_variables_expansions/action
+cd /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/action
